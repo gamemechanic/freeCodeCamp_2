@@ -1,0 +1,32 @@
+body {
+  background-color: grey;
+}
+.navbar-default {
+  background-color: orange;
+  padding: 2px;
+  margin: 0px;
+}
+.navbar {
+  border: 0px;
+  border-radius: 0px;
+  border-width: 0px;
+}
+.well {
+  min-width: 250px;
+  border: 0px;
+  border-radius: 0px;
+  margin: 0px 100px 0px 100px;
+  padding: 150px 0px 50px 20px; 
+  background-color: #ffb31a;
+}
+.about {
+  font-size: 1.6em;
+  color: white;
+  text-align: center;
+  font-family: Lobster;
+}
+.glyphicon {
+  color: white;
+  font-size: 25px;
+  margin: 8px;
+}
